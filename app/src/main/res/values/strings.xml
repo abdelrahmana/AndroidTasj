@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="tryAgain">Try Agian</string>
+    <string name="all_services">Car Record</string>
+    <string name="issue_happend">There are A Problem Please Try Again Later</string>
+    <string name="no_connection">Please Check Internet Connection And Try Again</string>
+    <string name="errors">Error Happend</string>
+</resources>
